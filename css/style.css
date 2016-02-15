@@ -1,0 +1,50 @@
+body {	
+background-color: #ededed;
+font: 15px/21px Cambria, sans-serif
+	}
+.main {
+background: white;
+width: 28%;
+margin: auto;
+padding: 30px;
+
+}
+.main {
+border: 1px solid white; 
+box-shadow: 1px 1px 1px 1px;
+}
+
+h1 {	
+font-size: 20px;
+text-align: center;	
+}
+
+img {
+display: block;
+width: 35%;
+margin: auto;
+}
+
+.border {
+border-bottom: 1px solid gray;
+padding-bottom: 7px;
+}
+
+p {
+margin-left: 20px;
+}
+
+.size {
+line-height: 4px;
+padding: 5px;
+}
+
+a {
+margin-left: 20px;
+}
+
+.line {
+border-bottom: 4px solid black;
+border-radius: 20px 10px 5px 0;
+padding-top: 40px;
+}
